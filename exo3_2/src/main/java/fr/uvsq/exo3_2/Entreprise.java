@@ -16,6 +16,7 @@ public class Entreprise
 		list.add(e);
 	}
 	
+	
 	public int SalairesTotale()
 	{
 		int cont = 0;
