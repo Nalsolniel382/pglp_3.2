@@ -26,6 +26,8 @@ public class Entreprise
 			
 			cont = cont + list.get(i).calcSalaire();
 		}
-		return cont;
+		return cont; 
+		
+		
 	}
 }
