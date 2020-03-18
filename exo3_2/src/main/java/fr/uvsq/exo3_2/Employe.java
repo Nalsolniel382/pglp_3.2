@@ -21,6 +21,9 @@ public class Employe {
 		
 		return this.ancienneter++;
 	}
-	
+	public int calcSalaire()
+	{
+		return 1500 + 20*ancienneter;
+	}
 
 }
